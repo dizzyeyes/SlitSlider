@@ -6,6 +6,7 @@ A responsive slideshow with a twist: the idea is to slice open the current slide
 
 [article on Codrops](http://tympanus.net/codrops/2012/06/05/fullscreen-slit-slider-with-jquery-and-css3/)
 
-[demo](http://tympanus.net/Tutorials/FullscreenSlitSlider/)
+[origin demo](http://tympanus.net/Tutorials/FullscreenSlitSlider/)
 
+[my demo](http://dizzyeyes.github.io/SlitSlider/)
 Licensed under the MIT License
